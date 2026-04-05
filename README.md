@@ -45,3 +45,7 @@ that `search_code` is returning results from this repo.
 
 **This repo may be wiped and recreated at any time.** Do not store anything
 valuable here. It is a sandbox.
+
+## Recent activity
+
+See the [issues](../../issues) and [pull requests](../../pulls) tabs for examples of what agents can do here.
